@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zemaniack
 - 👀 I’m interested in computer science and machine learning
 - 🌱 I’m currently studying computer science and electrical engineering at the University at Buffalo
-- 💞️ I’m looking to collaborate on nada currently
+- 💞️ Not currently looking for anyting to collaborate on
 - 📫 How to reach me --> insta and snap ethan_zemanick
 
 <!---
